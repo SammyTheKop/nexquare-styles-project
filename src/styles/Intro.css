@@ -44,6 +44,7 @@
 .intro-container-left-details-menu-items-image {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
 }
 
 .intro-container-left-details-menu-items-text p {
