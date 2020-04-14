@@ -348,6 +348,7 @@
 .right-container-image {
   width: 50%;
   border-radius: 50%;
+  border: 2px solid #63d763;
 }
 
 .right-container-image-name {
