@@ -147,7 +147,7 @@
 
 .header-search-bar-input-type-2 {
   background-color: white;
-  border: 1px solid blue;
+  border: 1px solid lightgray;
   border-radius: 20px;
   height: 30px;
   color: black;
@@ -156,7 +156,7 @@
 
 .header-search-bar-input-type-3 {
   background-color: white;
-  border: 1px solid blue;
+  border: 1px solid #8a8ae1;
   border-radius: 20px;
   height: 30px;
   color: black;
@@ -165,7 +165,7 @@
 
 .header-search-bar-input-type-4 {
   background-color: white;
-  border: 1px solid blue;
+  border: 1px solid lightgray;
   border-radius: 20px;
   height: 30px;
   color: black;

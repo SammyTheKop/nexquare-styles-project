@@ -239,6 +239,7 @@ const Intro = () => {
               type="search"
               name="search"
               className="header-search-bar-input"
+              disabled
             />
             <FontAwesomeIcon
               icon={faSearch}
@@ -276,6 +277,7 @@ const Intro = () => {
                     type="search"
                     name="search"
                     className="header-search-bar-input-type-2"
+                    disabled
                   />
                   <FontAwesomeIcon
                     icon={faSearch}
@@ -294,6 +296,7 @@ const Intro = () => {
                       type="search"
                       name="search"
                       className="header-search-bar-input-type-3"
+                      disabled
                     />
                     <FontAwesomeIcon
                       icon={faCaretDown}
@@ -311,6 +314,7 @@ const Intro = () => {
                       type="search"
                       name="search"
                       className="header-search-bar-input-type-4"
+                      disabled
                     />
                     <FontAwesomeIcon
                       icon={faPlusCircle}
@@ -377,6 +381,7 @@ const Intro = () => {
                   type="search"
                   name="search"
                   className="header-search-bar-input-type-3"
+                  disabled
                 />
                 <FontAwesomeIcon
                   icon={faCaretDown}
