@@ -58,7 +58,7 @@ Note: The frontend is configured to run on port: 3000 and the backend runs on po
   - most of the components are accessible and are developed based on the open source contents available online
   - the application allows the user to perform all the above mentioned functionalities
   - the user interface is responsive but was developed as a desktop first application
-  - test cases for the user interface components
+  - test cases for the react components
 
 ## Video Walkthrough
 ```
