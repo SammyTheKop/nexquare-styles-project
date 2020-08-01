@@ -53,7 +53,7 @@ Note: The frontend is configured to run on port: 3000 and the backend runs on po
   - based on the content of a group, report the mean alignment of the group
   - the backend of the application handles most of the errors and the front end displays the same
 
-- uses React Application to Display the Functionalities elegantly
+- uses React to Display the Functionalities elegantly
   - reusable react components such as Button, Textbox, Modal, Card, etc
   - most of the components are accessible and are developed based on the open source contents available online
   - the application allows the user to perform all the above mentioned functionalities
@@ -62,7 +62,7 @@ Note: The frontend is configured to run on port: 3000 and the backend runs on po
 
 ## Video Walkthrough
 ```
-Please check the link to watch a short loom video of the application and the functionalities: 
+Please check the short loom video of the application and the functionalities: 
 ```
 
 ## Test Case Scenarios
