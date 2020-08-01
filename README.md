@@ -51,12 +51,24 @@ Note: The frontend is configured to run on port: 3000 and the backend runs on po
   - retrieve a superhero by Id (including the teams they are part of)
   - retrieve a team by Id (including the superheros on the team)
   - based on the content of a group, report the mean alignment of the group
+  - the backend of the application handles most of the errors and the front end displays the same
 
 - uses React Application to Display the Functionalities elegantly
-  - reusable react components such as Button, Textbox, Modal, Card
-  - most of the components are accessible
+  - reusable react components such as Button, Textbox, Modal, Card, etc
+  - most of the components are accessible and are developed based on the open source contents available online
   - the application allows the user to perform all the above mentioned functionalities
-  - the ui is responsive
+  - the user interface is responsive but was developed as a desktop first application
+  - test cases for the user interface components
 
-##
+## Video Walkthrough
+```
+Please check the link to watch a short loom video of the application and the functionalities: 
+```
+
+## Test Case Scenarios
+- The APIs Returns an expected value
+- Ths APIs Throws an exception under the tested condition
+- The APIs Changes the state of the system in-memory data
+
+Note: Currently the unit test cases of the APIs are not present but can be added.
 
