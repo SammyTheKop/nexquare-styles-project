@@ -27,7 +27,7 @@ The frontend of the Application is built using Node.js.
 ```
 
 ## Installation
-1. clone the repository
+1. Clone the repository
 2. Steps to run the frontend of the Application. Go to root directory of the frontend Application and run the commands:
 ```
 - npm install
